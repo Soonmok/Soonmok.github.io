@@ -8,12 +8,9 @@ summary: "About this blog"
 active: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is Soonmok's Blog. 
 
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+CSE Senior in Myung Ji University | Interested in Artificial Inteligence
+[Github URL](https://github.com/Soonmok/)
+[Linkedin URL](https://www.linkedin.com/in/kwon-soonmok-9394b2156/)
+[SlideShare URL](https://www.slideshare.net/kwonsoonmok/presentations)
