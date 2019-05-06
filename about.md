@@ -10,9 +10,9 @@ active: about
 
 This is Soonmok's Blog. 
 
-CSE Senior in Myung Ji University | Interested in Artificial Inteligence
+CSE Senior in Myung Ji University | Interested in Artificial Inteligence <br />
 Undergraduate Researcher in DISLab (Data Informatics System)
 
-[Github URL](https://github.com/Soonmok/)
-[Linkedin URL](https://www.linkedin.com/in/kwon-soonmok-9394b2156/)
-[SlideShare URL](https://www.slideshare.net/kwonsoonmok/presentations)
+[Github URL](https://github.com/Soonmok/) <br />
+[Linkedin URL](https://www.linkedin.com/in/kwon-soonmok-9394b2156/) <br />
+[SlideShare URL](https://www.slideshare.net/kwonsoonmok/presentations) <br />

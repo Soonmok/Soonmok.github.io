@@ -2,9 +2,9 @@
 bg: "tag.jpg"
 layout: page
 permalink: /posts/
-title: "Archive"
-crawlertitle: "All articles"
-summary: "Posts about jekyll"
+title: "Projects"
+crawlertitle: "Projects"
+summary: "All projects I participated"
 active: archive
 ---
 
@@ -15,15 +15,15 @@ active: archive
   <h2 class="category-key" id="{{ t | downcase }}">{{ t | capitalize }}</h2>
 
   <ul class="year">
-    {% for post in posts %}
-      {% if post.tags contains t %}
+    {% for project in projects %}
+      {% if project.tags contains t %}
         <li>
-          {% if post.lastmod %}
-            <a href="{{ post.url | relative_url}}">{{ post.title }}</a>
-            <span class="date">{{ post.lastmod | date: "%d-%m-%Y"  }}</span>
+          {% if project.lastmod %}
+            <a href="{{ post.url | relative_url}}">{{ project.title }}</a>
+            <span class="date">{{ project.lastmod | date: "%d-%m-%Y"  }}</span>
           {% else %}
-            <a href="{{ post.url | relative_url}}">{{ post.title }}</a>
-            <span class="date">{{ post.date | date: "%d-%m-%Y"  }}</span>
+            <a href="{{ post.url | relative_url}}">{{ project.title }}</a>
+            <span class="date">{{ project.date | date: "%d-%m-%Y"  }}</span>
           {% endif %}
         </li>
       {% endif %}
