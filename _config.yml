@@ -22,6 +22,7 @@ disqus_username:
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
+future: true
 
 # Posts settings
 future: true
