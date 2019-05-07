@@ -8,7 +8,7 @@ categories: projects
 tags: 'jekyll'
 author: redVi
 ---
-Before you dive into this book, you should have a solid working proficiency over JavaScript up to the most recent standard (at the time of this writing), which is commonly called ES5 (technically ES 5.1). Here, we plan to talk squarely about the upcoming ES6, as well as cast our vision beyond to understand how JS will evolve moving forward.
+영수증을 찍으면 영수증에 있는 식재료들만 파싱하여, 주어진 식재료들로 요리가 가능하고, 사용자가 좋아할 만한 요리의 레시피를 추천해주는 앱.<br /> (머신러닝 모델 학습을 위한 데이터 처리 업무를 맡음)
 
 If you are still looking for confidence with JavaScript, I highly recommend you read the other titles in this series first:
 

@@ -8,7 +8,7 @@ categories: projects
 tags: 'jekyll'
 author: redVi
 ---
-Before you dive into this book, you should have a solid working proficiency over JavaScript up to the most recent standard (at the time of this writing), which is commonly called ES5 (technically ES 5.1). Here, we plan to talk squarely about the upcoming ES6, as well as cast our vision beyond to understand how JS will evolve moving forward.
+네트워크 패킷 로그에서 뽑아낸 feature 들을 사용하여, 악성행위를 구분하는 AI 기반 탐지기.
 
 If you are still looking for confidence with JavaScript, I highly recommend you read the other titles in this series first:
 

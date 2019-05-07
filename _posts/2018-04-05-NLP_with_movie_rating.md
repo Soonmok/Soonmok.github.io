@@ -8,7 +8,7 @@ categories: projects
 tags: 'jekyll'
 author: redVi
 ---
-Before you dive into this book, you should have a solid working proficiency over JavaScript up to the most recent standard (at the time of this writing), which is commonly called ES5 (technically ES 5.1). Here, we plan to talk squarely about the upcoming ES6, as well as cast our vision beyond to understand how JS will evolve moving forward.
+네이버 AI 대회 참가용 프로젝트로, 네이버에서 제공하는 영화 리뷰 문장 데이터와, 영화 리뷰 점수 데이터를 가지고, 새로운 영화 리뷰 문장만 보고 리뷰 점수를 예측하는 프로그램.
 
 If you are still looking for confidence with JavaScript, I highly recommend you read the other titles in this series first:
 

@@ -8,7 +8,7 @@ categories: projects
 tags: ['project']
 author: redVi
 ---
-Before you dive into this book, you should have a solid working proficiency over JavaScript up to the most recent standard (at the time of this writing), which is commonly called ES5 (technically ES 5.1). Here, we plan to talk squarely about the upcoming ES6, as well as cast our vision beyond to understand how JS will evolve moving forward.
+단백질 개체 시퀀스를 자연어 처리 알고리즘으로 분류하고, 그 결과를 시각화한 연구과제 <br /> (Bio-Vec)
 
 If you are still looking for confidence with JavaScript, I highly recommend you read the other titles in this series first:
 
