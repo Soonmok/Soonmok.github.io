@@ -2,6 +2,7 @@ _site
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
+assets
 # Created by https://www.gitignore.io/api/ruby,macos,jekyll
 
 ### Jekyll ###
