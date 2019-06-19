@@ -8,9 +8,7 @@ categories: posts
 tags: 'jekyll'
 author: redVi
 ---
-You’ll find this  in your `_s` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new s, simply add a file in the `_s` directory that follows the convention `YYYY-MM-DD-name-of-.ext` and includes the necessary front matter. Take a look at the source for this  to get an idea about how it works.
+You’ll find this  in your `_s` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different asdasdaswdasdasde for this  to get an idea about how it works.
 
 Jekyll also offers powerful support for code snippets:
 
